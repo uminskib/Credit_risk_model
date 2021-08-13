@@ -6,7 +6,7 @@ The repository contains a credit risk modelling project based on a database that
 
 * data folder - there are main file with the credit application data and data files that was created during the analysis.
 * report folder - it contains reports about fine-classing and coarse-classing that was created during the analysis.
-* Model_Ryzyka_Kredytoweg.R - main file with whole code.
+* Model_Ryzyka_Kredytowego.R - main file with whole code.
 * Raport_Model_Ryzyka_Kredytowego.pdf - file containing a description of the analysis results.
 
 The whole model was realized in February 2021 for the purpose of passing classes and was prepared in Polish language. This is a group project in which I was responsible for preparing the data for modeling: data cleaning, variable selection, fine and coarse classification process. All these steps are also described by me in the report. The analysis was conducted in R where well-developed fine-classing and coarse-classing packages are available.
